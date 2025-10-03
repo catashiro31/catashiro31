@@ -1,18 +1,28 @@
-### Hi there 👋
-* 👂 My name is 
-* 👩 Pronouns: 
-* 🔭 I’m currently working on 
-* 🌱 I’m currently learning 
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
+# Hi, I'm Do Van Tien! 👋
+I am currently a student majoring in information technology at the University of Transport. 
 
-* <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=catashiro31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catashiro31&layout=compact&theme=vue-dark&hide_border=true&card_width=350" style="height: 200px;">
+</div>
+
+
+
+
+## 🚀 About Me
+- 🔭 I am currently pursuing for a Bachelor of Information Technology at Hanoi University of Transport.
+
+## My Articles (Empty)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+- 🚀 Learning Information Technology
+
+## 🏆 Achievements (Empty)
+
+## 📬 Get in Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tien-do-van-7a6111218/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
