@@ -7,10 +7,12 @@ I am currently a student majoring in information technology at the University of
 ## My Articles (Empty)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,pytorhc,ros,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Information Technology
+- 🚀 Researching Computer Vision
+- 🚀 Learning ROS2
 
 ## 🏆 Achievements (Empty)
 
