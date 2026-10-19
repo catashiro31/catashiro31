@@ -12,7 +12,7 @@ I am currently a student majoring in information technology at the University of
 ## 🌱 Currently Exploring
 - 🚀 Learning Information Technology
 - 🚀 Researching Computer Vision
-- 🚀 Learning ROS2
+- 🚀 Learning ROS2 & BMI
 
 ## 🏆 Achievements (Empty)
 
